@@ -4,7 +4,7 @@ Aplicación móvil híbrida desarrollada en respuesta a un brief de negocio estr
 
  🔗 Demo en Vivo & Capturas 
  *🌐 Brief: https://drive.google.com/file/d/16CJVljTrsA73cjv6792AHA29rd9sxSbK/view?usp=sharing 
- 🎥 Demostración en Video:
+ 🎥 Demostración en Video:https://drive.google.com/file/d/1uWi2z8shz74zNqFleKgIv6LkSBy3Fqs8/view?usp=sharing
 🛠️ Stack Tecnológico & Arquitectura*¿   
 *Framework: Flutter (Dart)
 *   Integraciones:WhatsApp Business API / Deep Linking (url_launcher)
