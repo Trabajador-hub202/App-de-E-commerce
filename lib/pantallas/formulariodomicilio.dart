@@ -35,7 +35,7 @@ class _FormularioDomicilioState extends State<FormularioDomicilio> {
         listaProductos += '- ${producto[0]} (\$${producto[2]})\n';
       }
 
-      String celularNegocio = '50371834794';
+      String celularNegocio = '503--------';
 
       String mensaje =
           '¡Hola La Casa del León! 🦁\n'
